@@ -70,6 +70,7 @@ To run the project, ensure that you have the required libraries installed. You c
 Copy code : 
 pip install pandas numpy matplotlib seaborn scikit-learn
 Next, open the Jupyter Notebook or your Python IDE and run the code cells in the provided order to execute the different steps of the project.
----
-Conclusion : 
+
+##Conclusion : 
 The "Linear Regression - Ecommerce Customers" project aims to build a predictive model to estimate the "Yearly Amount Spent" by Ecommerce customers based on various features. The project involves data exploration, model training, and evaluation to provide insights and predictions for the Ecommerce company.
+---
